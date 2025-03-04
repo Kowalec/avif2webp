@@ -1,6 +1,3 @@
-I'll update the README.md to include information about both scripts (shell script and batch file) in both Polish and English.
-
-```markdown:/Users/sebastiankowalec/github/avif2webp/README.md
 # avif2webp
 
 ## Opis
